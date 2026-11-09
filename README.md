@@ -5,8 +5,7 @@ through automated testing, code quality validation,
 and security scanning with GitHub Actions.
 
 ## CI Pipeline
-
-SecureOpShip uses GitHub Actions to automatically execute:
+ ![SecureOpShip CI](https://github.com/DarkNic/secureopship-ci/actions/workflows/ci.yml/badge.svg) uses GitHub Actions to automatically execute:
 
 - Ruff code quality checks
 - pytest automated tests
