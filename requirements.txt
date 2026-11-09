@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytest
+httpx
+httpx2
+ruff
+bandit
+pip-audit
